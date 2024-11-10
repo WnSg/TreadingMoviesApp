@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trending Movies App</string>
+    <string name="greeting_text">Hello %1$s!</string>
+    <string name="title_trending_movies">Trending Movies</string>
+    <string name="theme_switch">Switch Theme</string>
+    <string name="language_switch">Switch Language</string>
+    <string name="home_screen">Welcome to Home Screen</string>
+    <string name="favorites_screen">Welcome to Favorites Screen</string>
+    <string name="profile_screen">Welcome to Profile Screen</string>
+    <string name="enter_api_key">Enter your TMDB API Key</string>
+    <string name="api_key">API Key</string>
+    <string name="save_api_key">Save API Key</string>
+    <string name="invalid_api_key">Invalid API Key. Please try again.</string>
+    <string name="error_checking_api">Error checking API Key. Please try again.</string>
+
+</resources>

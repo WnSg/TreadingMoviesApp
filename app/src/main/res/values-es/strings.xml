@@ -1,0 +1,16 @@
+<!-- res/values-es/strings.xml (español) -->
+<resources>
+    <string name="app_name">Aplicación de Películas en Tendencia</string>
+    <string name="greeting_text">¡Hola %1$s!</string>
+    <string name="title_trending_movies">Películas en Tendencia</string>
+    <string name="theme_switch">Cambiar Tema</string>
+    <string name="language_switch">Cambiar Idioma</string>
+    <string name="home_screen">Bienvenido a la Pantalla de Inicio</string>
+    <string name="favorites_screen">Bienvenido a la Pantalla de Favoritos</string>
+    <string name="profile_screen">Bienvenido a la Pantalla de Perfil</string>
+    <string name="enter_api_key">Ingresa tu clave API de TMDB</string>
+    <string name="api_key">Clave de API</string>
+    <string name="save_api_key">Guardar Clave API</string>
+    <string name="invalid_api_key">Clave API no válida. Inténtalo de nuevo.</string>
+    <string name="error_checking_api">Error al comprobar la clave API. Inténtalo de nuevo.</string>
+</resources>
